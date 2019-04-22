@@ -7,7 +7,7 @@ body{
 }
 
 .hero-header {
-	background: url("https://github.com/starziki/css_project/blob/master/10-3/img/hero_image.jpg?raw=true");
+	background: url("../img/hero_image.jpg");
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
